@@ -10,9 +10,7 @@
 
 - 🔭 I’m currently working in <a href="https://exlibrisgroup.com/" target="blank">Ex Libris</a>
 
-- 🌱 I’m currently Working as an automation developer.
-
-- 🌱 I’m currently learning Angular, NodeJS.</a>
+- 🌱 I’m currently Working as a full stack developer.
 
 - 💬 Ask me about **Selenium & TestNG**
 
