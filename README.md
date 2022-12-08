@@ -12,8 +12,8 @@
 
 - 🌱 I’m currently Working as a full stack developer.
 
-- 🌱 Skills: Java, Python, C/C++, JavaScript/TypeScript, Angular, Spring, HTML/CSS, SQL.
-- 
+- 💪 Skills: Java, Python, C/C++, JavaScript/TypeScript,
+- 💪 Angular, Spring, HTML/CSS, SQL.
 - 📫 How to reach me **orshahar91@gmail.com**
 
 <!-- - 📄 Know about my experiences <a href="https://github.com/Orshahar91/Me/blob/master/Resume.pdf" target="blank">Resume</a> -->
