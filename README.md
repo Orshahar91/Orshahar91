@@ -8,15 +8,15 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://exlibrisgroup.com/" target="blank">Ex Libris</a>
+- 🔭 I’m currently working at <a href="https://exlibrisgroup.com/" target="blank">Ex Libris</a>
 
-- 🌱 I’m currently Working as a full stack developer.
+- 🌱 I’m currently Working as a Software Engineer.
 
 - 💪 Skills: Java, Python, C/C++, JavaScript/TypeScript,
 - 💪 Angular, Spring, HTML/CSS, SQL.
 - 📫 How to reach me **orshahar91@gmail.com**
 
-<!-- - 📄 Know about my experiences <a href="https://github.com/Orshahar91/Me/blob/master/Resume.pdf" target="blank">Resume</a> -->
+📄 Know about my experiences <a href="https://github.com/Orshahar91/Me/blob/master/Or%20Shahar%20Resume.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -27,8 +27,8 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Orshahar91">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-<!-- 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/Orshahar91/Me/blob/master/Resume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a> -->
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/Orshahar91/Me/blob/master/Or%20Shahar%20Resume.pdf">
+					<img src="https://img.icons8.com/doodle/40/000000/document"></a>
       </div>
 
 </p>
